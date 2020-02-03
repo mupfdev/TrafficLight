@@ -14,11 +14,11 @@
 
 #define LED_Pin          GPIO_PIN_13 ///< LED pin
 #define LED_GPIO_Port    GPIOC       ///< LED GPIO port
-#define LightGN_Pin      GPIO_PIN_12 ///< Green light control pin
-#define LightRD_Pin      GPIO_PIN_13 ///< Red light control pin
+#define LightGN_Pin      GPIO_PIN_8  ///< Green light control pin
+#define LightRD_Pin      GPIO_PIN_9  ///< Red light control pin
 #define Light_GPIO_Port  GPIOB       ///< Light GPIO port
-#define SwitchGN_Pin     GPIO_PIN_4  ///< Green switch pin
-#define SwitchRD_Pin     GPIO_PIN_5  ///< Red switch pin
+#define SwitchGN_Pin     GPIO_PIN_12 ///< Green switch pin
+#define SwitchRD_Pin     GPIO_PIN_13 ///< Red switch pin
 #define Switch_GPIO_Port GPIOB       ///< Switch GPIO port
 
 /**
