@@ -25,7 +25,7 @@ for the STM32F103C8T6 aka [blue pill board](http://reblag.dk/stm32/).
 
 ## Schematic
 
-Todo.
+[![Schematic](.media/schematic.png)](.media/schematic.png?raw=true "Schematic")
 
 ## Installation
 
